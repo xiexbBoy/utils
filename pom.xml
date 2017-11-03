@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>utils</name>
-	<description>Demo project for Spring Boot</description>
+	<description>处理工具方案</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
